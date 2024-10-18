@@ -22,7 +22,7 @@ Yeah yeah, i know i need to put more stuff here and publish some of my repositor
 I'm really strict with my social media, i don't have an instagram or facebook page because F* you Meta and your massive data collection.
 - Discord: Well i'm currently trying to be more active(when work allows me to), but i'm on [Linux.Chat](https://linux.chat/) community, and [ACBr Community](https://discord.gg/acbr)
 - Youtube: Sporadically i make some content (in portuguese) on my channel called [Coisas Eletrônicas](https://www.youtube.com/@coisaseletronicas5593), i have plans to make more content though.
-- LinkedIn: Soon
+- LinkedIn: [Click here to visit my profile](https://www.linkedin.com/in/rodrigo-peetz-b13a23333/)
 
 ## Github stats
 
